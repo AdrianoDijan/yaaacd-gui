@@ -1,0 +1,16 @@
+---
+Language: Cpp
+BasedOnStyle: Google
+IndentWidth: 4
+AlignAfterOpenBracket: BlockIndent
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortBlocksOnASingleLine: Empty
+IndentAccessModifiers: false
+AccessModifierOffset: -3
+AllowShortLambdasOnASingleLine: Empty
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+BinPackArguments: false
+BinPackParameters: false
+ExperimentalAutoDetectBinPacking: false
+AllowAllParametersOfDeclarationOnNextLine: false
